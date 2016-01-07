@@ -17,9 +17,8 @@
 
 #--------AUTEUR-------------------------------------------------
 #
-# Script realised par Benoit
+# Script realised par Ben00it
 # date : 21/04/2010
-# Contact naudit007@gmail.com
 
 # ------DESCRIPTION---------------------------------------------
 #
