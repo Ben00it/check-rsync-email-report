@@ -11,4 +11,4 @@ This sript is in four steps :
     - 3: Check the copy state
     - 4: Send e-mail report 
     
-Idealy I should add a function to check the integrity of the backup... 
+
