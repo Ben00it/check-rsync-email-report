@@ -77,7 +77,7 @@ echo  "$ALL_ISNT_OK" | mail -s $SUBJECT_NOK $RECEIVER <$ERROR_FILE
 }
 
 function F_RSYNC {
-rsync -rauv $SRC $POINTDEMONTAGE 2>/tmp/error_rsync_$$
+rsync -rauv -c $SRC $POINTDEMONTAGE 2>/tmp/error_rsync_$$
 }
 
 function F_CHECK_ERRORS {
